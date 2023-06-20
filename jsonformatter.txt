@@ -1,28 +1,5 @@
 {
-  "termsAndConditions": {
-        "header": {
-            "avatarUrl": "",
-            "position": "",
-            "headerTitle": "",
-        },
-        "title": "",
-        "subtitle": "",
-        "summary": "",
-        "paragraphs": [
-            {
-                "title": "",
-                "paragraphText": "",
-            },
-            {
-                "title": "",
-                "paragraphText": "",
-            },
-            {
-                "title": "",
-                "paragraphText": "",
-            },
-        ]
-    },
+  "termsAndConditions": {},
   "privacyPolicy": {},
   "character": "",
   "sections": {
