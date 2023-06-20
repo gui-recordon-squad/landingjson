@@ -1,0 +1,177 @@
+{
+  "termsAndConditions": {
+        "header": {
+            "avatarUrl": "",
+            "position": "",
+            "headerTitle": "",
+        },
+        "title": "",
+        "subtitle": "",
+        "summary": "",
+        "paragraphs": [
+            {
+                "title": "",
+                "paragraphText": "",
+            },
+            {
+                "title": "",
+                "paragraphText": "",
+            },
+            {
+                "title": "",
+                "paragraphText": "",
+            },
+        ]
+    },
+  "privacyPolicy": {},
+  "character": "",
+  "sections": {
+    "ADVANTAGES": {
+      "content": {
+        "title": "",
+        "highlight": {
+          "icon": "",
+          "title": ""
+        },
+        "advantages": [
+          {
+            "icon": "",
+            "title": "",
+            "description": ""
+          },
+          {
+            "icon": "",
+            "title": "",
+            "description": ""
+          },
+          {
+            "icon": "",
+            "title": "",
+            "description": ""
+          }
+        ]
+      }
+    },
+    "HEADER": {
+      "content": {
+        "fullButton": {
+          "color": "",
+          "name": ""
+        },
+        "arguments": [
+          {
+            "color": "",
+            "description": ""
+          }
+        ],
+        "headerVideo": "//play.vidyard.com",
+        "headerHeadline": ""
+      }
+    },
+    "METRICS": {
+      "content": {
+        "description": "",
+        "metrics": [
+          {
+            "value": "40",
+            "name": "Anos de mercado"
+          },
+          {
+            "value": "14",
+            "name": "Estados brasileiros"
+          },
+          {
+            "value": "+6.000",
+            "name": "Colaboradores"
+          },
+          {
+            "value": "+80 Mil",
+            "name": "Clientes atendidos"
+          },
+          {
+            "value": "+150 Mil",
+            "name": "Unidades entregues"
+          }
+        ]
+      }
+    },
+    "HOW_IT_WORKS": {
+      "content": {
+        "description": "",
+        "character": "",
+        "steps": [
+          {
+            "icon": "",
+            "title": "",
+            "highlight": ""
+          },
+          {
+            "icon": "",
+            "title": "",
+            "highlight": ""
+          }
+        ]
+      },
+      "PROFILE": {
+        "content": {
+          "description": "",
+          "leftProfile": {
+            "icon": "",
+            "title": "",
+            "arguments": [
+              {
+                "title": "",
+                "description": ""
+              }
+            ]
+          },
+          "rightProfile": {
+            "icon": "",
+            "title": "",
+            "arguments": [
+              {
+                "title": "",
+                "description": ""
+              }
+            ]
+          }
+        }
+      },
+      "POTENTIAL_GAIN": {
+        "content": {
+          "description": "",
+          "potentialRevenue": {
+            "icon": "",
+            "title": "",
+            "description": "",
+            "highlight": ""
+          },
+          "referral": {
+            "icon": "",
+            "title": "",
+            "description": "",
+            "highlight": ""
+          },
+          "stages": [
+            {
+              "icon": "",
+              "revenue": "",
+              "highlight": "",
+              "title": ""
+            }
+          ]
+        }
+      },
+      "CALL_TO_ACTION": {
+        "content": {
+          "button": {
+            "color": "",
+            "title": ""
+          },
+          "title": "",
+          "description": ""
+        }
+      }
+    }
+  }
+}
